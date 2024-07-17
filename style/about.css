@@ -1,0 +1,31 @@
+.title {
+    position: relative;
+    text-align: center;
+    color: white;
+    user-select: none;
+    top: -100px;
+}
+
+.content {
+    position: relative;
+    color: white;
+    user-select:text;
+    text-align: center;
+    bottom: -3cm;
+    align-items: center;
+}
+
+.format::selection {
+    color: black;
+    background-color: lime;
+    
+}
+.navigate {
+    color: white;
+    text-decoration: none;
+}
+.navigate:hover {
+    color: red;
+    cursor: pointer;
+    text-decoration: underline;
+}
