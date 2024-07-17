@@ -1,3 +1,6 @@
+# This is not a license,
+# this is a page for all license, i mentioned!
+
 # ALL LICENSES in WEB:
 [Claus Center | MIT License](LICENSE)
 
